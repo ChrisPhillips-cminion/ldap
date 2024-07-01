@@ -1,0 +1,10 @@
+# Entry 2: cn=user2@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
+dn: cn=user2swat.cp4i.com,dc=swat,dc=cp4i,dc=com
+changetype: add
+cn: user2@swat.cp4i.com
+displayname: User 2
+givenname: User
+mail: user2@swat.cp4i.com
+objectclass: inetOrgPerson
+sn: 2
+userpassword: 134-2

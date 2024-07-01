@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations:
+  name: ldap
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ldap
+  template:
+    metadata:
+      labels:
+        app: ldap
+    spec:
+      containers:
+      - env:
+        - name: "LDAP_ORGANISATION"
+          value: "swat"
+        - name: "LDAP_DOMAIN"
+          value: "swat.com"
+        - name: "LDAP_ADMIN_PASSWORD"
+          value: "admin"
+        image: osixia/openldap:latest
+        imagePullPolicy: Always
+        name: ldap
