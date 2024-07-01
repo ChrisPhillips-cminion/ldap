@@ -1,4 +1,3 @@
-ersion: 1
 
 # Entry 1: cn=user1@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user1@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
@@ -11,6 +10,7 @@ objectclass: inetOrgPerson
 sn: 1
 userpassword: 1234
 
+
 # Entry 2: cn=user2@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user2swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -22,6 +22,7 @@ objectclass: inetOrgPerson
 sn: 2
 userpassword: 134
 
+
 # Entry 3: cn=user3@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user3swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -32,6 +33,7 @@ mail: user3@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 3
 userpassword: 134-3
+
 # Entry 4: cn=user4@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user4swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -42,6 +44,7 @@ mail: user4@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 4
 userpassword: 134-4
+
 # Entry 5: cn=user5@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user5swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -52,6 +55,7 @@ mail: user5@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 5
 userpassword: 134-5
+
 # Entry 6: cn=user6@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user6swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -62,6 +66,7 @@ mail: user6@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 6
 userpassword: 134-6
+
 # Entry 7: cn=user7@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user7swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -72,6 +77,7 @@ mail: user7@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 7
 userpassword: 134-7
+
 # Entry 8: cn=user8@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user8swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -82,6 +88,7 @@ mail: user8@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 8
 userpassword: 134-8
+
 # Entry 9: cn=user9@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user9swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -92,6 +99,7 @@ mail: user9@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 9
 userpassword: 134-9
+
 # Entry 10: cn=user10@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user10swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -102,6 +110,7 @@ mail: user10@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 10
 userpassword: 134-10
+
 # Entry 11: cn=user11@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user11swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -112,6 +121,7 @@ mail: user11@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 11
 userpassword: 134-11
+
 # Entry 12: cn=user12@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user12swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -122,6 +132,7 @@ mail: user12@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 12
 userpassword: 134-12
+
 # Entry 13: cn=user13@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user13swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -132,6 +143,7 @@ mail: user13@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 13
 userpassword: 134-13
+
 # Entry 14: cn=user14@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user14swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -142,6 +154,7 @@ mail: user14@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 14
 userpassword: 134-14
+
 # Entry 15: cn=user15@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user15swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -152,6 +165,7 @@ mail: user15@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 15
 userpassword: 134-15
+
 # Entry 16: cn=user16@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user16swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -162,6 +176,7 @@ mail: user16@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 16
 userpassword: 134-16
+
 # Entry 17: cn=user17@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user17swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -172,6 +187,7 @@ mail: user17@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 17
 userpassword: 134-17
+
 # Entry 18: cn=user18@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user18swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -182,6 +198,7 @@ mail: user18@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 18
 userpassword: 134-18
+
 # Entry 19: cn=user19@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user19swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -192,6 +209,7 @@ mail: user19@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 19
 userpassword: 134-19
+
 # Entry 20: cn=user20@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user20swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -202,6 +220,7 @@ mail: user20@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 20
 userpassword: 134-20
+
 # Entry 21: cn=user21@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user21swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -212,6 +231,7 @@ mail: user21@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 21
 userpassword: 134-21
+
 # Entry 22: cn=user22@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user22swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -222,6 +242,7 @@ mail: user22@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 22
 userpassword: 134-22
+
 # Entry 23: cn=user23@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user23swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -232,6 +253,7 @@ mail: user23@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 23
 userpassword: 134-23
+
 # Entry 24: cn=user24@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user24swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -242,6 +264,7 @@ mail: user24@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 24
 userpassword: 134-24
+
 # Entry 25: cn=user25@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user25swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -252,6 +275,7 @@ mail: user25@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 25
 userpassword: 134-25
+
 # Entry 26: cn=user26@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user26swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -262,6 +286,7 @@ mail: user26@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 26
 userpassword: 134-26
+
 # Entry 27: cn=user27@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user27swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -272,6 +297,7 @@ mail: user27@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 27
 userpassword: 134-27
+
 # Entry 28: cn=user28@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user28swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -282,6 +308,7 @@ mail: user28@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 28
 userpassword: 134-28
+
 # Entry 29: cn=user29@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user29swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -292,6 +319,7 @@ mail: user29@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 29
 userpassword: 134-29
+
 # Entry 30: cn=user30@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user30swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -302,6 +330,7 @@ mail: user30@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 30
 userpassword: 134-30
+
 # Entry 31: cn=user31@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user31swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -312,6 +341,7 @@ mail: user31@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 31
 userpassword: 134-31
+
 # Entry 32: cn=user32@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user32swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -322,6 +352,7 @@ mail: user32@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 32
 userpassword: 134-32
+
 # Entry 33: cn=user33@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user33swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -332,6 +363,7 @@ mail: user33@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 33
 userpassword: 134-33
+
 # Entry 34: cn=user34@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user34swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -342,6 +374,7 @@ mail: user34@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 34
 userpassword: 134-34
+
 # Entry 35: cn=user35@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user35swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -352,6 +385,7 @@ mail: user35@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 35
 userpassword: 134-35
+
 # Entry 36: cn=user36@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user36swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -362,6 +396,7 @@ mail: user36@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 36
 userpassword: 134-36
+
 # Entry 37: cn=user37@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user37swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -372,6 +407,7 @@ mail: user37@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 37
 userpassword: 134-37
+
 # Entry 38: cn=user38@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user38swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -382,6 +418,7 @@ mail: user38@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 38
 userpassword: 134-38
+
 # Entry 39: cn=user39@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user39swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -392,6 +429,7 @@ mail: user39@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 39
 userpassword: 134-39
+
 # Entry 40: cn=user40@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user40swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -402,6 +440,7 @@ mail: user40@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 40
 userpassword: 134-40
+
 # Entry 41: cn=user41@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user41swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -412,6 +451,7 @@ mail: user41@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 41
 userpassword: 134-41
+
 # Entry 42: cn=user42@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user42swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -422,6 +462,7 @@ mail: user42@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 42
 userpassword: 134-42
+
 # Entry 43: cn=user43@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user43swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -432,6 +473,7 @@ mail: user43@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 43
 userpassword: 134-43
+
 # Entry 44: cn=user44@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user44swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -442,6 +484,7 @@ mail: user44@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 44
 userpassword: 134-44
+
 # Entry 45: cn=user45@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user45swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -452,6 +495,7 @@ mail: user45@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 45
 userpassword: 134-45
+
 # Entry 46: cn=user46@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user46swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -462,6 +506,7 @@ mail: user46@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 46
 userpassword: 134-46
+
 # Entry 47: cn=user47@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user47swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -472,6 +517,7 @@ mail: user47@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 47
 userpassword: 134-47
+
 # Entry 48: cn=user48@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user48swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -482,6 +528,7 @@ mail: user48@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 48
 userpassword: 134-48
+
 # Entry 49: cn=user49@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user49swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -492,6 +539,7 @@ mail: user49@swat.cp4i.com
 objectclass: inetOrgPerson
 sn: 49
 userpassword: 134-49
+
 # Entry 50: cn=user50@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 dn: cn=user50swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 changetype: add
@@ -504,11 +552,13 @@ sn: 50
 userpassword: 134-50
 
 
+
 # Entry 3: ou=Groups,dc=swat,dc=cp4i,dc=com
 dn: ou=Groups,dc=swat,dc=cp4i,dc=com
 changetype: add
 objectclass: organizationalUnit
 ou: Groups
+
 
 # Entry 4: cn=Admins,ou=Groups,dc=swat,dc=cp4i,dc=com
 dn: cn=Admins,ou=Groups,dc=swat,dc=cp4i,dc=com
@@ -518,11 +568,13 @@ objectclass: groupOfUniqueNames
 uniquemember: cn=user1@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 uniquemember: cn=user2@swat.cp4i.com,dc=swat,dc=cp4i,dc=com
 
+
 # Entry 5: ou=policies,dc=swat,dc=cp4i,dc=com
 dn: ou=policies,dc=swat,dc=cp4i,dc=com
 changetype: add
 objectclass: organizationalUnit
 ou: policies
+
 
 # Entry 6: cn=default,ou=policies,dc=swat,dc=cp4i,dc=com
 dn: cn=default,ou=policies,dc=swat,dc=cp4i,dc=com
@@ -535,6 +587,7 @@ pwdattribute: 2.5.4.35
 pwdcheckquality: 2
 pwdminlength: 4
 pwdmustchange: TRUE
+
 
 # Entry 7: ou=Users,dc=swat,dc=cp4i,dc=com
 dn: ou=Users,dc=swat,dc=cp4i,dc=com
